@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Component Debe de hacer match con el snapchot 1`] = `
+<h2>no definido</h2>
+<p>10</p><button>increment</button><button>decrement</button>
+`;
